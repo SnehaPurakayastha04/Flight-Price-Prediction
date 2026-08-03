@@ -105,8 +105,6 @@ Performance:
 ```
 Flight_Price_Prediction.ipynb
 README.md
-requirements.txt
-submission.csv
 images/
 ```
 
